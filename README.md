@@ -5,9 +5,9 @@ Lawnchair Spec for Cordova/Phonegap
 
 This repo contains a Cordova/Phonegap project which runs the specs for [lawnchair](https://github.com/brianleroux/lawnchair) in Cordova/Phonegap environment.
 
-This is especially intended to for testing the "cordova-native-sqlite" adapter, which provides an interface for lawnchair to a native SQLite DB on mobile platforms via the [cordova-sqlite-storage](https://github.com/litehelpers/Cordova-sqlite-storage) plugin, hence this adaptor can only be tested from within a Cordova/Phonegap native environment.
+This is especially intended for testing the "cordova-native-sqlite" adapter, which provides an interface for lawnchair to a native SQLite DB on mobile platforms via the [cordova-sqlite-storage](https://github.com/litehelpers/Cordova-sqlite-storage) plugin, hence this adapter can only be tested from within a Cordova/Phonegap native environment.
 
-The other adapters are also tested, which is useful for testing adaptor support on various mobile platforms.
+The other adapters are also tested, which is useful for testing adapter support on various mobile platforms.
 
 [![CLI screenshot](https://raw.githubusercontent.com/dpa99c/lawnchair-cordova-spec/master/screenshot/screen.png)](https://raw.githubusercontent.com/dpa99clawnchair-cordova-spec/master/screenshot/screen.png)
 
